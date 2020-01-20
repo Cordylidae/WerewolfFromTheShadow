@@ -1,0 +1,8 @@
+1-food
+2-suriken
+3-orb of water
+4-orb of form
+5-orb of fire
+6-orb of lightning
+7-orb of wind
+8-orb of earth

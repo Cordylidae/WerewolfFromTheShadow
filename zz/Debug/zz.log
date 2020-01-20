@@ -1,0 +1,141 @@
+﻿Build started 20.01.2020 18:28:06.
+     1>Project "C:\Users\User\Desktop\Проекты для gitHub\zz1\zz\zz.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\zz.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\User\Desktop\Проекты для gitHub\zz1\\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp
+         game.cpp
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(329): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(330): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(338): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(342): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(346): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(350): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(380): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(384): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(388): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(392): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(468): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(523): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(523): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(529): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(529): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(542): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(542): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(548): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(548): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(554): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(554): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(566): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(566): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(572): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(572): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(578): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(578): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(584): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(584): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(628): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(628): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(722): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(722): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(738): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(837): warning C4244: 'initializing' : conversion from 'sf::Int64' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(849): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(875): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(894): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(894): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(895): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(895): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(896): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(896): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(897): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(897): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(898): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(898): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(899): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(899): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(914): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(946): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(947): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(948): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(949): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(956): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(993): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1008): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1009): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1010): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1020): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1043): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1044): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1045): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1045): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1055): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1076): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1084): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1092): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1099): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1111): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1111): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1112): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1112): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1117): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1117): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1132): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1146): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1283): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1283): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1292): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1300): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1308): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1315): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1334): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1334): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1347): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1348): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1348): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1349): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1349): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1350): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1350): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1351): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1351): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1390): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1390): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1394): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1437): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(1437): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(449): warning C4715: 'stateint' : not all control paths return a value
+     1>c:\users\user\desktop\проекты для github\zz1\zz\game.cpp(459): warning C4715: 'intstate' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\Проекты для gitHub\zz1\Debug\zz.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\User\Desktop\Проекты для gitHub\zz1\\SFML-2.3.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\zz.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\User\Desktop\Проекты для gitHub\zz1\Debug\zz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\Проекты для gitHub\zz1\Debug\zz.lib" /MACHINE:X86 Debug\game.obj
+     1>game.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         zz.vcxproj -> C:\Users\User\Desktop\Проекты для gitHub\zz1\Debug\zz.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\User\Desktop\Проекты для gitHub\zz1\Debug\zz.exe;#1" /manifest Debug\zz.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\zz.unsuccessfulbuild".
+         Touching "Debug\zz.lastbuildstate".
+     1>Done Building Project "C:\Users\User\Desktop\Проекты для gitHub\zz1\zz\zz.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.70
